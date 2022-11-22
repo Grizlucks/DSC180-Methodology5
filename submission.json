@@ -1,0 +1,4 @@
+{
+    "dockerhub-id": "grizlucks/methodology-assignment-5:test",
+    "build-script": "python run.py"
+}
